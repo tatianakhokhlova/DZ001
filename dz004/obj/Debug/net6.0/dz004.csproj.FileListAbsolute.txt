@@ -1,0 +1,15 @@
+C:\Users\HP\seminar2\dz004\bin\Debug\net6.0\dz004.exe
+C:\Users\HP\seminar2\dz004\bin\Debug\net6.0\dz004.deps.json
+C:\Users\HP\seminar2\dz004\bin\Debug\net6.0\dz004.runtimeconfig.json
+C:\Users\HP\seminar2\dz004\bin\Debug\net6.0\dz004.dll
+C:\Users\HP\seminar2\dz004\bin\Debug\net6.0\dz004.pdb
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\dz004.csproj.AssemblyReference.cache
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\dz004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\dz004.AssemblyInfoInputs.cache
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\dz004.AssemblyInfo.cs
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\dz004.csproj.CoreCompileInputs.cache
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\dz004.dll
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\refint\dz004.dll
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\dz004.pdb
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\dz004.genruntimeconfig.cache
+C:\Users\HP\seminar2\dz004\obj\Debug\net6.0\ref\dz004.dll
